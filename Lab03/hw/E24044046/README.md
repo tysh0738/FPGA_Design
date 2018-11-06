@@ -68,4 +68,4 @@
 以十進位制輸入4,294,967,296(32-bit)以下的的數字，以u32變數型態的number儲存，並不斷除以2取餘數，變數sum計算1的個數，餘數為1則sum++，parity bit為sum除以2的餘數。
 ※程式碼註解部分將number轉為二進位制輸出，驗證結果時使用。
 
-![](https://github.com/tysh0738/FPGA_Design/blob/master/Lab03/hw/E24044046/Program2/image/3_putty.PNG)
+![](https://github.com/cltsai00/FPGA_Design/tree/master/Lab03/hw/E24044046/Program2/image/3_putty.PNG)
