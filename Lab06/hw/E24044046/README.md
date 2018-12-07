@@ -10,9 +10,9 @@
 此系統為2x2的矩陣運算，每個數值為8 bits，即最大可輸入255，而運算完的結果為16 bits。
 使用一個256x8 BRAM，將輸入的運算指令和八個數值，並運算結果的四個數值分別存到BRAM，其位址如下圖所示。
 
-![](https://github.com/tysh0738/FPGA_Design/blob/master/Lab06/hw/E24044046/image/matrix.PNG)
+![](https://github.com/tysh0738/FPGA_Design/blob/master/Lab06/hw/E24044046/image/matrix.png)
 
-![](https://github.com/tysh0738/FPGA_Design/blob/master/Lab06/hw/E24044046/image/BRAM.PNG)
+![](https://github.com/tysh0738/FPGA_Design/blob/master/Lab06/hw/E24044046/image/BRAM.png)
 
 另外，指令所對應到的運算如下表。
 
