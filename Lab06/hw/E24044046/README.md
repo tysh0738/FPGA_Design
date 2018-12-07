@@ -1,4 +1,4 @@
-# Homework - Lab05
+# Homework - Lab06
 
 ### 成員學號: E24044046、E24046713
 
